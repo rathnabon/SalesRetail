@@ -13,6 +13,8 @@ public class Main {
 	public static void getSales(){
 		System.out.println("Get Sales 1");
 		System.out.println("Get Sales 2");
+		
+		System.out.println("Test 1");
 	}
 
 }
